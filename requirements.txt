@@ -1,6 +1,7 @@
-paddlepaddle
-paddlehub
-visualdl
-paddleseg
-paddlenlp
-paddleocr
+paddle
+matplotlib
+numpy
+opencv-python
+imgaug
+PIL
+yaml
